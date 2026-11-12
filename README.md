@@ -6,6 +6,12 @@ DataOlllo is a desktop app for preparing and analyzing local data without writin
 
 [Download DataOlllo](https://www.dataolllo.com/download) · [Getting started](https://www.dataolllo.com/docs/getting-started) · [Documentation](https://www.dataolllo.com/docs/introduction) · [Contact](https://www.dataolllo.com/contact)
 
+## See DataOlllo in action
+
+[![DataOlllo showing an example supplier CSV workflow](https://www.dataolllo.com/video/supplier-csv-demo-poster.png)](https://www.dataolllo.com/)
+
+[Watch the supplier CSV demo](https://www.dataolllo.com/) to see example files combined, duplicates removed, and a cleaned CSV exported. The demo uses fictional supplier data.
+
 ## What you can do
 
 - **Inspect and filter:** Open a CSV, explore its columns, and select the rows you need.
