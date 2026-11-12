@@ -8,7 +8,7 @@ DataOlllo is a desktop app for preparing and analyzing local data without writin
 
 ## See DataOlllo in action
 
-[![DataOlllo showing an example supplier CSV workflow](https://www.dataolllo.com/video/supplier-csv-demo-poster.png)](https://www.dataolllo.com/)
+![DataOlllo desktop interface showing a data table and filtering tools](https://www.dataolllo.com/docs/images/dataolllo_light_ui.png)
 
 [Watch the supplier CSV demo](https://www.dataolllo.com/) to see example files combined, duplicates removed, and a cleaned CSV exported. The demo uses fictional supplier data.
 
